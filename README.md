@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zzwu29
+- 👋 Hi, I’m @zzwu29.
 - 👀 I’m interested in multi-sensor integration system.
 
 <!---
