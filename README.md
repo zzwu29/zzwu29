@@ -14,9 +14,7 @@
     <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=zzwu29&theme=github" />
 </div>
 
-<!---
-zzwu29/zzwu29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center"><img src="https://raw.githubusercontent.com/zzwu29/zzwu29/main/assets/github-contribution-grid-snake.svg" ></div>
+
 
 
