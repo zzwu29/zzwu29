@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @zzwu29.
-- 👀 I’m interested in multi-sensor fusion, navigation and SLAM.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+!)](https://git.io/typing-svg)
+<div align=center><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=600&size=30&duration=2000&pause=1000&color=10B704&background=000000B5&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+!"></div>
 
 <!---
 zzwu29/zzwu29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
