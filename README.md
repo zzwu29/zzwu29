@@ -19,7 +19,7 @@
 
 **Graduate Student** \
 [**Wuhan University**]([https://www.whu.edu.cn/](https://www.whu.edu.cn/)) • 2021/09/01 - 2024/06/30 \
-Skills: `Visual-Inertial Systems`, `SLAM`, `Sensor Calibration`, `Multi-sensor Fusion`, `Seamless Positioning`.\
+Skills: `Visual-Inertial Systems`, `SLAM`, `Spatial/Temporal Calibration`, `Multi-sensor Fusion`.\
 <br/>
 
 [<img align="left" height="45px" width="130px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
