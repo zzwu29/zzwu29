@@ -21,8 +21,8 @@
 [**Wuhan University**]([https://www.whu.edu.cn/](https://www.whu.edu.cn/)) • 2021/09/01 - 2024/06/30 \
 Skills: `Visual-Inertial Systems`, `SLAM`, `Sensor Calibration`, `Multi-sensor Fusion`, `Seamless Positioning`.\
 <br/>
-[<img align="left" height="54px" width="144px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
 
+[<img align="left" height="54px" width="144px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
 **Bachelor Degree** \
 [**Wuhan University**]([https://www.whu.edu.cn/](https://www.whu.edu.cn/)) • 2017/09/01 - 2021/06/30 \
 Skills: `GNSS`, `Kalman Filter`, `Automatic Control`, `Digital Signal Processing`, `Integrated Navigation`.
