@@ -5,7 +5,7 @@
 ### 🎈 Brief Introduction
 
 - 🏫 I’m currently a master student in **<a href="https://www.whu.edu.cn/">Wuhan University</a>**, majoring in **Geodesy and Survey Engineering**.
-- 🌱 My research interests include **Multi-sensor Fusion**, **Global Navigation Satellite System**, **SLAM**, and **Sensor Calibration**.
+- 🌱 My research interests include **multi-sensor fusion**, **Global Navigation Satellite System**, **SLAM**, and **sensor calibration**.
 - 📫 You can get in touch with me by email at [zongzhouwu@whu.edu.cn](mailto:zongzhouwu@whu.edu.cn).
 <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zzwu29/zzwu29/output/github-contribution-grid-snake.svg">
