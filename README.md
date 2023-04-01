@@ -2,7 +2,7 @@
 
 ---
 
-### Brief Introduction
+### :shipit: Brief Introduction
 
 - 🏫 I’m currently a master student in **<a href="https://www.whu.edu.cn/">Wuhan University</a>**, majoring in **Geodesy and Survey Engineering**.
 - 🌱 My research interests include **multi-sensor fusion**, **Global Navigation Satellite System**, **SLAM**, and **sensor calibration**.
