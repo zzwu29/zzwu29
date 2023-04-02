@@ -1,4 +1,4 @@
-<div align=center><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=600&size=30&duration=2000&pause=1000&color=10B704&background=ffffff&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+!"></div>
+<div align=center><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=600&size=30&duration=2000&pause=1000&color=10B704&background=ffffff&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github!"></div>
 
 ---
 
