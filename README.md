@@ -18,7 +18,7 @@
 
 [<img align="left" height="45px" width="130px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
 
-**Graduate Student** \
+**Master Student** \
 [**Wuhan University**]([https://www.whu.edu.cn/](https://www.whu.edu.cn/)) • 2021/09 - 2024/06 \
 Skills: `Visual-Inertial Systems`, `SLAM`, `Spatial/Temporal Calibration`, `Multi-sensor Fusion`.\
 <br/>
