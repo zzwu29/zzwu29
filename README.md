@@ -54,9 +54,9 @@ Skills: `GNSS`, `Kalman Filter`, `Automatic Control`, `Digital Signal Processing
     </td>
   </tr>
   </tbody></table>
+  
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I'></script>
+
+  <a href='https://clustrmaps.com/site/1bu2y'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I'/></a>
 </body>
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I'></script>
-
-<a href='https://clustrmaps.com/site/1bu2y'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I'/></a>
 
