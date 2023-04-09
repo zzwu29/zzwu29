@@ -49,11 +49,14 @@ Skills: `GNSS`, `Kalman Filter`, `Automatic Control`, `Digital Signal Processing
   <tr>
     <td style="padding:25px;width:25%;vertical-align:middle">
       <p style="text-align:center;font-size:small;">
-        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=MA3YP9bFFgSJwkjyvmry9105K7igPb4bs8wzrtBTMbg'></script>
+        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I'></script>
       </p>
-      <a href='https://clustrmaps.com/site/1bu2x'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=5c698d&w=300&t=m&d=MA3YP9bFFgSJwkjyvmry9105K7igPb4bs8wzrtBTMbg&co=ffffff&ct=808080'/></a>
     </td>
   </tr>
   </tbody></table>
 </body>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I'></script>
+
+<a href='https://clustrmaps.com/site/1bu2y'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I'/></a>
 
