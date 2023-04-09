@@ -44,7 +44,7 @@ Skills: `GNSS`, `Kalman Filter`, `Automatic Control`, `Digital Signal Processing
     <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=zzwu29&theme=github" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img  src="https://clustrmaps.com/map_v2.png?cl=080808&w=560&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I&co=ffffff&ct=808080" />
-</div>
+</div> -->
 
