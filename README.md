@@ -44,19 +44,7 @@ Skills: `GNSS`, `Kalman Filter`, `Automatic Control`, `Digital Signal Processing
     <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=zzwu29&theme=github" />
 </div>
 
-<body>
-  <table style="width:25%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-  <tr>
-    <td style="padding:25px;width:25%;vertical-align:middle">
-      <p style="text-align:center;font-size:small;">
-        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I'></script>
-      </p>
-    </td>
-  </tr>
-  </tbody></table>
-  
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I'></script>
-
-  <a href='https://clustrmaps.com/site/1bu2y'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I'/></a>
-</body>
+<div align="center">
+    <img  src="https://clustrmaps.com/map_v2.png?cl=080808&w=560&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I&co=ffffff&ct=808080" />
+</div>
 
