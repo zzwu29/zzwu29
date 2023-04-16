@@ -26,7 +26,7 @@ Skills: `Visual-Inertial Systems`, `SLAM`, `Spatial/Temporal Calibration`, `Mult
 [<img align="left" height="45px" width="130px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
 **Bachelor Student** \
 [**Wuhan University**]([https://www.whu.edu.cn/](https://www.whu.edu.cn/)) • 2017/09 - 2021/06 \
-Skills: `GNSS`, `Kalman Filter`, `Automatic Control`, `Digital Signal Processing`, `Integrated Navigation`.
+Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Processing`, `Automatic Control`.
 
 ---
 
