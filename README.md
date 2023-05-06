@@ -28,6 +28,16 @@ Skills: `Visual-Inertial Systems`, `SLAM`, `Spatial/Temporal Calibration`, `Mult
 [**Wuhan University**]([https://www.whu.edu.cn/](https://www.whu.edu.cn/)) • 2017/09 - 2021/06 \
 Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Processing`, `Automatic Control`.
 
+
+---
+
+### 💻 Internship Experience
+
+[<img align="left" height="45px" width="130px" alt="DJI" src="./dji.jpg"/>](https://www.dji.com/)
+**Algorithm Internship Student** \
+[**Automotive**](https://auto.dji.com/) • 2023/05 - 2023/09
+
+
 ---
 
 <div align="center">
