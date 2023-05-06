@@ -13,14 +13,14 @@
 
 ### 📗 Education Experience
 
-[<img align="left" height="45px" width="130px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
+[<img align="left" height="45px" width="150px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
 
 **Master Student** \
 [**Wuhan University**](https://www.whu.edu.cn/) • 2021/09 - 2024/06 \
 Skills: `Visual-Inertial Systems`, `SLAM`, `Spatial/Temporal Calibration`, `Multi-sensor Fusion`.\
 <br/>
 
-[<img align="left" height="45px" width="130px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
+[<img align="left" height="45px" width="150px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
 **Bachelor Student** \
 [**Wuhan University**](https://www.whu.edu.cn/) • 2017/09 - 2021/06 \
 Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Processing`, `Automatic Control`.
@@ -30,7 +30,7 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
 
 ### 💻 Internship Experience
 
-[<img align="left" height="45px" width="130px" alt="DJI" src="./dji.jpg"/>](https://www.dji.com/)
+[<img align="left" height="45px" width="150px" alt="DJI" src="./dji.jpg"/>](https://www.dji.com/)
 **Algorithm Internship Student** \
 [**Automotive**](https://auto.dji.com/) • 2023/05 - 2023/09
 
