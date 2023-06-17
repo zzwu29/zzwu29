@@ -15,13 +15,13 @@
 
 [<img align="left" height="45px" width="150px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
 
-**Master Student** \
+**Master** \
 [**Wuhan University**](https://www.whu.edu.cn/) • 2021/09 - 2024/06 \
 Skills: `Visual-Inertial Systems`, `SLAM`, `Spatial/Temporal Calibration`, `Multi-sensor Fusion`.\
 <br/>
 
 [<img align="left" height="45px" width="150px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
-**Bachelor Student** \
+**Bachelor** \
 [**Wuhan University**](https://www.whu.edu.cn/) • 2017/09 - 2021/06 \
 Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Processing`, `Automatic Control`.
 
