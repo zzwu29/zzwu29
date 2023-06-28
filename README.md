@@ -59,3 +59,5 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
     <img  src="https://clustrmaps.com/map_v2.png?cl=080808&w=560&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I&co=ffffff&ct=808080" />
 </div> -->
 
+<a href="https://info.flagcounter.com/6FNb"><img src="https://s01.flagcounter.com/map/6FNb/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
