@@ -51,13 +51,24 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zzwu29" />
 </div>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzwu29&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzwu29&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+
+<!-- <div align="center">
     <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=zzwu29&theme=github" />
-</div>
+</div> -->
 
 <!-- <div align="center">
     <img  src="https://clustrmaps.com/map_v2.png?cl=080808&w=560&t=m&d=ZKzijpl5KZMsnB6zesh8vSS7gCV-pGmiptkaiDER-7I&co=ffffff&ct=808080" />
 </div> -->
 
-<a href="https://info.flagcounter.com/6FNb"><img src="https://s01.flagcounter.com/map/6FNb/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<div align="center">
+  <a href="https://info.flagcounter.com/6FNb"><img src="https://s01.flagcounter.com/map/6FNb/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+</div>
 
