@@ -51,14 +51,9 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zzwu29" />
 </div>
 
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzwu29&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzwu29&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzwu29&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</div>
 
 <!-- <div align="center">
     <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=zzwu29&theme=github" />
