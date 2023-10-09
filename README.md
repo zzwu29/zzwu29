@@ -34,7 +34,6 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
 **Algorithm Internship Student** \
 [**Automotive**](https://auto.dji.com/) • 2023/05 - 2023/08
 
-
 ---
 
 <div align="center">
