@@ -36,11 +36,9 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
 
 ---
 
-<!-- 
 <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zzwu29/zzwu29/output/github-contribution-grid-snake.svg">
 </div>
--->
 
 ---
 
