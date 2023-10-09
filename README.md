@@ -9,8 +9,6 @@
 - 📫 You can get in touch with me by email at [zongzhouwu@whu.edu.cn](mailto:zongzhouwu@whu.edu.cn).
 - 🎈 You can find my profile at [https://zzwu29.github.io](https://zzwu29.github.io).
 
----
-
 ### 📗 Education Experience
 
 [<img align="left" height="45px" width="150px" alt="WHU" src="./whu.png"/>](https://www.whu.edu.cn/)
@@ -25,9 +23,6 @@ Skills: `Visual-Inertial Systems`, `SLAM`, `Spatial/Temporal Calibration`, `Mult
 [**Wuhan University**](https://www.whu.edu.cn/) • 2017/09 - 2021/06 \
 Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Processing`, `Automatic Control`.
 
-
----
-
 ### 💻 Internship Experience
 
 [<img align="left" height="45px" width="150px" alt="DJI" src="./dji.jpg"/>](https://www.dji.com/)
@@ -40,21 +35,15 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zzwu29/zzwu29/output/github-contribution-grid-snake.svg">
 </div>
 
----
-
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zzwu29" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzwu29&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
 
----
-
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zzwu29" />
 </div>
-
----
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzwu29&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
