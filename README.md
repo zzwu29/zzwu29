@@ -36,9 +36,13 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
 
 ---
 
+<!-- 
 <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zzwu29/zzwu29/output/github-contribution-grid-snake.svg">
 </div>
+-->
+
+---
 
 <div align="center">
 <span>  </span>
@@ -46,9 +50,13 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
 <span>  </span>
 </div>
 
+---
+
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zzwu29" />
 </div>
+
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzwu29&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
