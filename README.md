@@ -32,7 +32,7 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
 
 [<img align="left" height="45px" width="150px" alt="DJI" src="./dji.jpg"/>](https://www.dji.com/)
 **Algorithm Internship Student** \
-[**Automotive**](https://auto.dji.com/) • 2023/05 - 2023/09
+[**Automotive**](https://auto.dji.com/) • 2023/05 - 2023/08
 
 
 ---
