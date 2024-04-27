@@ -1,3 +1,5 @@
+
+<!--
 <div align=center><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=600&size=30&duration=2000&pause=1000&color=10B704&background=ffffff&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github!"></div>
 
 ---
@@ -30,7 +32,7 @@ Skills: `GNSS`, `Kalman Filter`, `Integrated Navigation`, `Digital Signal Proces
 [**Automotive**](https://auto.dji.com/) • 2023/05 - 2023/08
 
 ---
-
+-->
 <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zzwu29/zzwu29/output/github-contribution-grid-snake.svg">
 </div>
